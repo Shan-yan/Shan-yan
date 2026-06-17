@@ -32,13 +32,13 @@
 - 使用说明：欢迎取用、参考、二次整理；如果内容帮到你，也欢迎交流反馈
 
 
-## Beginner Village NPC
+## About this NPC
 
 ```text
-冯诺伊曼派码农
+坚定的冯诺伊曼派码农
 
-Agent 具身 Security Robitic
- 
+Agent 具身 Security Robotic
+
 ```
 
 ## Communication
