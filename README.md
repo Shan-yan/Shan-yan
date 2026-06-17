@@ -6,11 +6,15 @@
 
 </div>
 
-## About Me
+## About this NPC
 
 **BJUT CS**
 
 这里会整理我的自制学习资料。欢迎食用，欢迎加v。
+
+坚定的冯诺伊曼派码农
+
+Agent 具身 Security Robotic
 
 **传奇新手村 NPC**
 
@@ -28,18 +32,9 @@
 ## Learning Materials
 
 - 学习资料仓库： [https://github.com/Shan-yan/Studypath-bjutsyf.git](L)
-- 内容方向：课程笔记、复习资料、实验代码、项目记录、工具使用经验
-- 使用说明：欢迎取用、参考、二次整理；如果内容帮到你，也欢迎交流反馈
+- 内容方向：BJUT课内资料 / AI studypath && reading path 
+- 使用说明：欢迎取用、参考、二次整理；希望内容帮到你
 
-
-## About this NPC
-
-```text
-坚定的冯诺伊曼派码农
-
-Agent 具身 Security Robotic
-
-```
 
 ## Communication
 
