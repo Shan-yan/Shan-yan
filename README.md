@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:60A5FA,100:A78BFA&height=190&section=header&text=Hi,%20I'm%20YOUR_GITHUB_USERNAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:60A5FA,100:A78BFA&height=190&section=header&text=Hi,%20I'm%20Shanyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=An+undergraduate+student+from+BJUT.;Welcome+to+take+and+use+my+learning+materials.;A+beginner-friendly+NPC.;Feel+free+to+communicate+and+learn+together.)](https://git.io/typing-svg)
 
