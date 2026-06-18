@@ -10,7 +10,7 @@
 
 **BJUT CS**
 
-这里会整理我的自制学习资料。欢迎食用，欢迎加v。
+这里会整理我的自制学习资料。欢迎食用
 
 坚定的冯诺伊曼派码农
 
@@ -38,7 +38,6 @@ Agent 具身 Security Robotic
 
 ## Communication
 
-- Wechat: [SpeakLoud-]
 - Email: [2503701145@qq.com](mailto:2503701145@qq.com)
 - 欢迎交流 有错误欢迎指正 欢迎扩列
 
