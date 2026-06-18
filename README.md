@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:60A5FA,100:A78BFA&height=190&section=header&text=Hi,%20I'm%20Shanyan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=An+undergraduate+student+from+BJUT+CS.;Welcome+to+take+my+learning+materials.;A+NPC.;communicate+and+learn+together.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=An+undergraduate+student+from+BJUT+CS.;Welcome+to+take+my+learning+materials.;A+NPC.;"不息为体，日新为道".)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,11 @@
 
 **BJUT CS**
 
-这里会整理我的自制学习资料。欢迎食用
+* 这里会整理我的自制学习资料。欢迎食用
 
-坚定的冯诺伊曼派码农
+* 坚定的冯诺伊曼派码农
 
-Agent 具身 Security Robotic
+* Agent/具身/Security/Robotic
 
 **传奇新手村 NPC**
 
