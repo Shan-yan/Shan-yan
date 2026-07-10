@@ -32,9 +32,7 @@
 ## Learning Materials
 
 - 学习资料仓库： [https://github.com/Shan-yan/Studypath-bjutsyf.git](L)
-- 内容方向：BJUT课内资料 / AI studypath && reading path 
-- 使用说明：欢迎取用、参考、二次整理；希望内容帮到你
-
+- BJUT课内资料 / AI studypath && reading path 
 
 ## Communication
 
