@@ -10,15 +10,14 @@
 
 **BJUT CS**
 
-* 这里会整理我的自制学习资料。欢迎食用
+**传奇新手村 NPC**
 
 * 坚定的冯诺伊曼派码农
 
 * Agent/具身/Security/Robotic
 
-**传奇新手村 NPC**
 
-## Daily Poem
+## 推送
 
 <!-- POEM-START -->
 ### 《念奴娇·赤壁怀古》
@@ -28,11 +27,6 @@
 > 大江东去，浪淘尽，千古风流人物。
 > 人生如梦，一尊还酹江月。
 <!-- POEM-END -->
-
-## Learning Materials
-
-- 学习资料仓库： [https://github.com/Shan-yan/Studypath-bjutsyf.git](L)
-- BJUT课内资料 / AI studypath && reading path 
 
 ## Communication
 
