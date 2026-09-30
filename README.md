@@ -14,7 +14,7 @@
 
 * 坚定的冯诺伊曼派码农
 
-* Agent/具身/Security/Robotic
+* HCI / Security / Robotic
 
 
 ## 推送
