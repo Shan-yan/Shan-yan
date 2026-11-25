@@ -25,8 +25,12 @@ jobs:
       - name: Update daily poem
         run: python scripts/update_poem.py
 
+      - name: Refresh contribution chart
+        continue-on-error: true
+        run: python scripts/update_contributions.py
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update daily poem"
-          file_pattern: README.md
+          commit_message: "chore: refresh daily profile"
+          file_pattern: README.md assets/contributions.svg

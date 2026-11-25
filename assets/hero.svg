@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="294" viewBox="0 0 960 294" role="img" aria-labelledby="title desc">
+  <title id="title">Shanyan</title>
+  <desc id="desc">BJUT CS. Human interface, agent systems, and language models.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#1b2040"/>
+      <stop offset="1" stop-color="#0e1528"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#7665e8" stop-opacity=".44"/>
+      <stop offset="1" stop-color="#7665e8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x2="1" y2="1">
+      <stop stop-color="#d1bcff"/>
+      <stop offset="1" stop-color="#81e6db"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#afbfff" stroke-opacity=".075"/>
+    </pattern>
+    <clipPath id="frame"><rect width="960" height="294" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="294" fill="url(#bg)"/>
+    <ellipse cx="770" cy="155" rx="300" ry="260" fill="url(#glow)"/>
+    <rect width="960" height="294" fill="url(#grid)"/>
+    <path d="M0 229c156 30 315 37 466 12s283-42 494-11v64H0Z" fill="#0c1324" fill-opacity=".44"/>
+    <path d="M0 229c156 30 315 37 466 12s283-42 494-11" fill="none" stroke="#9384e9" stroke-opacity=".34"/>
+    <g transform="translate(748 145)">
+      <circle r="96" fill="none" stroke="#b7a8ff" stroke-opacity=".27"/>
+      <circle r="70" fill="none" stroke="#b7a8ff" stroke-opacity=".4" stroke-dasharray="2 8"/>
+      <ellipse rx="126" ry="48" transform="rotate(-36)" fill="none" stroke="url(#orbit)" stroke-width="2"/>
+      <ellipse rx="126" ry="48" transform="rotate(36)" fill="none" stroke="url(#orbit)" stroke-opacity=".63" stroke-width="1.5"/>
+      <path d="M0-34 9-9 34 0 9 9 0 34-9 9-34 0-9-9Z" fill="url(#orbit)"/>
+      <circle cx="101" cy="-74" r="6" fill="#81e6db" stroke="#171c36" stroke-width="2"/>
+      <circle cx="-101" cy="-74" r="5" fill="#d1bcff" stroke="#171c36" stroke-width="2"/>
+      <circle cx="-96" cy="0" r="3" fill="#d1bcff"/>
+    </g>
+    <text x="58" y="69" fill="#bdb0ff" font-family="ui-monospace, Menlo, monospace" font-size="16" font-weight="600" letter-spacing="3">BJUT CS / PROFILE</text>
+    <text x="53" y="154" fill="#f8f7ff" font-family="system-ui, sans-serif" font-size="84" font-weight="800">Shanyan<tspan fill="#9deddf">.</tspan></text>
+    <text x="58" y="196" fill="#d1d7ec" font-family="system-ui, sans-serif" font-size="22" font-weight="500">Human interface × agents × language models</text>
+    <rect x="58" y="254" width="28" height="3" rx="1.5" fill="#81e6db"/>
+    <text x="98" y="260" fill="#c3cce3" font-family="ui-monospace, Menlo, monospace" font-size="15" letter-spacing="1">BEGINNER VILLAGE NPC</text>
+  </g>
+  <rect x=".5" y=".5" width="959" height="293" rx="23.5" fill="none" stroke="#a8a0ed" stroke-opacity=".34"/>
+</svg>

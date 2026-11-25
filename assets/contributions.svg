@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="258" viewBox="0 0 800 258" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub contributions per day</title>
+  <desc id="desc">Shan-yan, 2026-10-26 through 2026-11-25. Daily values are available in the GitHub contribution calendar.</desc>
+  <style>
+    text { fill: #4b5563; font: 15px system-ui, sans-serif; }
+    .card { fill: #f7f8ff; stroke: #dedff1; }
+    .heading { fill: #222643; font-size: 20px; font-weight: 700; }
+    .grid { stroke: #dde0f0; }
+    .line { stroke: #6250d6; }
+    .point { fill: #6250d6; stroke: #f7f8ff; }
+    @media (prefers-color-scheme: dark) {
+      text { fill: #bdc8dd; }
+      .card { fill: #11182d; stroke: #303856; }
+      .heading { fill: #f0efff; }
+      .grid { stroke: #2d354f; }
+      .line { stroke: #9085e9; }
+      .point { fill: #9085e9; stroke: #11182d; }
+    }
+  </style>
+  <rect class="card" x=".5" y=".5" width="799" height="257" rx="16"/>
+  <text class="heading" x="48" y="33">GitHub contributions / day</text>
+  <text x="48" y="55">2026-10-26 – 2026-11-25</text>
+  <path class="grid" d="M48 212.0H774"/><text x="38" y="217.0" text-anchor="end">0</text>
+  <path class="grid" d="M48 178.0H774"/><text x="38" y="183.0" text-anchor="end">1</text>
+  <path class="grid" d="M48 144.0H774"/><text x="38" y="149.0" text-anchor="end">2</text>
+  <path class="grid" d="M48 110.0H774"/><text x="38" y="115.0" text-anchor="end">3</text>
+  <path class="grid" d="M48 76.0H774"/><text x="38" y="81.0" text-anchor="end">4</text>
+  <text x="48.0" y="237" text-anchor="start">10-26</text>
+  <text x="217.4" y="237" text-anchor="middle">11-02</text>
+  <text x="386.8" y="237" text-anchor="middle">11-09</text>
+  <text x="556.2" y="237" text-anchor="middle">11-16</text>
+  <text x="774.0" y="237" text-anchor="end">11-25</text>
+  <polyline class="line" points="48.0,212.0 72.2,212.0 96.4,212.0 120.6,212.0 144.8,212.0 169.0,212.0 193.2,212.0 217.4,212.0 241.6,212.0 265.8,212.0 290.0,212.0 314.2,212.0 338.4,212.0 362.6,212.0 386.8,212.0 411.0,212.0 435.2,212.0 459.4,212.0 483.6,212.0 507.8,212.0 532.0,212.0 556.2,212.0 580.4,212.0 604.6,212.0 628.8,212.0 653.0,212.0 677.2,212.0 701.4,212.0 725.6,212.0 749.8,212.0 774.0,212.0" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle class="point" cx="774" cy="212.0" r="5" stroke-width="2"/>
+</svg>

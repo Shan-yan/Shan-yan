@@ -341,10 +341,10 @@ def build_poem_block(poem: dict[str, object]) -> str:
     lines = [
         f"### 《{title}》",
         "",
-        f"**{author}**",
+        f"作者：{author}",
         "",
     ]
-    lines.extend(f"> {line}" for line in content)
+    lines.append("\\\n".join(f"> {line}" for line in content))
     return "\n".join(lines)
 
 
