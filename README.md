@@ -23,47 +23,47 @@ flowchart LR
     R -->|确认后| E["Agent · 执行并反馈"]
 ```
 
-**走一遍交互｜学习路线助手（概念示例）**
+### 走一遍交互｜学习路线助手（概念示例）
 
 > 「我每天只有 30 分钟，想用两周入门 NLP。」
 
 Agent 把目标拆成阅读、练习和复盘；LLM 根据时间预算拟出候选路线。界面先展示每天的安排和预计耗时，再由你决定下一步：
 
 <details>
-<summary><strong>✓ 确认路线</strong> · 展开查看反馈</summary>
+<summary>✓ 确认路线 · 展开查看反馈</summary>
 
 Agent 保存已确认的安排，并回显第一天的任务：用 20 分钟了解分词，再用 10 分钟比较两种分词结果。
 
 </details>
 
 <details>
-<summary><strong>↺ 我想调整</strong> · 展开查看反馈</summary>
+<summary>↺ 我想调整 · 展开查看反馈</summary>
 
 如果你把周末设为休息日，界面会保留原方案，并标出重新分配的任务。新计划会再次请求确认，不会直接覆盖原安排。
 
 </details>
 
-**也在关注：** 具身智能 · 机器人 · 安全。坚定的冯诺伊曼派码农，喜欢把学到的东西整理成别人也能用的笔记。
+**研究方向：** 人机交互（HCI）· 安全 · 机器人。坚定的冯诺伊曼派码农，喜欢把学到的东西整理成别人也能用的笔记。
 
 ## Contributions
 
 **最近 31 天的 GitHub 每日贡献数。** 曲线随定时任务刷新，统计区间标在图上。
 
-[![Shan-yan 最近 31 天的 GitHub 每日贡献趋势](assets/contributions.svg)](https://github.com/Shan-yan?tab=overview#contribution-graph)
+[![Shan-yan 最近 31 天的 GitHub 每日贡献趋势](assets/contributions.svg)](https://github.com/Shan-yan?tab=overview)
 
-[在 GitHub 原生贡献日历查看每日明细 ↗](https://github.com/Shan-yan?tab=overview#contribution-graph)
+[前往 GitHub 个人概览查看贡献日历 ↗](https://github.com/Shan-yan?tab=overview)
 
 ## Daily Poem
 
 **每日诗笺** · 给写代码的一天留几行诗。由 GitHub Actions 每日自动轮播，可[查看更新记录](https://github.com/Shan-yan/Shan-yan/actions/workflows/update-poem.yml)。
 
 <!-- POEM-START -->
-### 《惠崇春江晚景》
+### 《虞美人·春花秋月何时了》
 
-**苏轼**
+作者：李煜
 
-> 竹外桃花三两枝，春江水暖鸭先知。<br>
-> 蒌蒿满地芦芽短，正是河豚欲上时。
+> 雕栏玉砌应犹在，只是朱颜改。\
+> 问君能有几多愁？恰似一江春水向东流。
 <!-- POEM-END -->
 
 ## Learning Materials
